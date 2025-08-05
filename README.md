@@ -1,21 +1,21 @@
 # Dark Trail
 
-“You're being watched. Not by light, but by shadows that obey a darker master.”
+> “You’re being watched. Not by light, but by shadows that obey a darker master.”
 
-Some say the forgotten path leads to something… bright.
+In the ashes of the Empire, something stirs.
 
 ---
 
-## Artifacts:
-
+## Artifacts
 
 - `stormtrooper_watch.txt`
 - `forgotten_pulse/`
-- Darth Vader never speaks — but he breathes. Can you hear him in the metadata?
+- `vader_breath.mp3` *(static... but does it whisper?)*
+- `README_bak.old`
 
-> "May the Fourth be with you... but Vader watches in silence."
+Some say the forgotten pulse still carries Vader’s command — encrypted in silence.
 
-<!-- the shadows know -->
+<!-- They always fall for the first clue -->
 <a href="https://x.com/ShadowTiger01" target="_blank">
   <img src="https://github.com/ShadowTiger01-X/MS/blob/main/May%204th" alt="ZmxhZ3t2YWRlcl9rbm93c190aGVfd2F5fQ==" />
 </a>
