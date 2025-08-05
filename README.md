@@ -11,7 +11,7 @@ In the ashes of the Empire, something stirs.
 - [`stormtrooper_watch.txt`](./Light)
 - [`forgotten_pulse/`](./Forgotten_Pulse)
 - [`vader_breath.mp3`](./DarthV.mp3) *(static... but does it whisper?)*
-- [`README_bak.old`](./README.md)
+
 
 Some say the forgotten pulse still carries Vader’s command — encrypted in silence.
 
