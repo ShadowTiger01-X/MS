@@ -17,5 +17,6 @@ Some say the forgotten path leads to something… bright.
 
 <!-- the shadows know -->
 <a href="https://x.com/ShadowTiger01" target="_blank">
-  <img src="https://github.com/ShadowTiger01-X/MS/blob/main/May%20The%20Fourth%20Be%20With%20You%20Star%20Wars%20GIF.gif" alt="flag{vader_knows_the_way}" />
+  <img src="https://github.com/ShadowTiger01-X/MS/blob/main/May%204th" alt="flag{vader_knows_the_way}" />
+  <img src="" alt="flag{vader_knows_the_way}" />
 </a>
