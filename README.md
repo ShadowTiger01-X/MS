@@ -9,7 +9,7 @@ Some say the forgotten path leads to something… bright.
 ## Artifacts:
 
 
-- `https://github.com/ShadowTiger01-X/MS/blob/main/Light`
+- `stormtrooper_watch.txt`
 - `forgotten_pulse/`
 - Darth Vader never speaks — but he breathes. Can you hear him in the metadata?
 
