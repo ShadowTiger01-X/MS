@@ -1,23 +1,23 @@
-# Operation: Dark Trail
+# Dark Trail
 
-> “Shadows can slip through restrictions where light cannot pass.”
+“You're being watched. Not by light, but by shadows that obey a darker master.”
 
-## Trail Log
-
-An old key was once found in the ashes of a lost repo.
-But now, only fragments remain... scattered.
-
-If you're here, follow the commits.
-Find the branch that never merged.
-Decode what others dismissed as noise.
-
-📌 File: `hex_4b6579.txt`
-📌 Branch: `forgotten-pulse`
-
-_Only then, the shadow will speak..._
+Some say the forgotten path leads to something… bright.
 
 ---
 
-**hint:** `base64?`, `metadata?`, `.git history?`
+## Artifacts:
 
-🧠 Good luck, analyst.
+
+- `stormtrooper_watch.txt:https://github.com/user-attachments/files/21589414/stormtrooper_watch.txt.txt`
+- `forgotten_pulse/`
+- Darth Vader never speaks — but he breathes. Can you hear him in the metadata?
+
+<!-- ![vader](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) -->
+<a href="https://x.com/ShadowTiger01" target="_blank">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwvftBlY/giphy.gif" alt="flag{vader_knows_the_way}" />
+</a>
+
+
+---
+**Hint:** Try `git log`, `branches`, `image alt`, and `EXIF data`...
