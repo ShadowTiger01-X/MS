@@ -8,7 +8,7 @@ In the ashes of the Empire, something stirs.
 
 ## Artifacts
 
-- `stormtrooper_watch.txt`
+- [`stormtrooper_watch.txt`](./stormtrooper_watch.txt)
 - `forgotten_pulse/`
 - `vader_breath.mp3` *(static... but does it whisper?)*
 - `README_bak.old`
