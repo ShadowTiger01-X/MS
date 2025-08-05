@@ -18,5 +18,4 @@ Some say the forgotten path leads to something… bright.
 <!-- the shadows know -->
 <a href="https://x.com/ShadowTiger01" target="_blank">
   <img src="https://github.com/ShadowTiger01-X/MS/blob/main/May%204th" alt="flag{vader_knows_the_way}" />
-  <img src="" alt="flag{vader_knows_the_way}" />
 </a>
